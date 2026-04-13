@@ -1,0 +1,12 @@
+{
+  "napoli": {
+    "timestamp": 1776111577734,
+    "data": {
+      "city": "Napoli",
+      "country": "Italia",
+      "temp": 16.1,
+      "wind": 3.8,
+      "time": "22:19:37"
+    }
+  }
+}
